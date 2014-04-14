@@ -1,0 +1,158 @@
+/* Wrap text around chapter titles: */
+@import url("wrap.css");
+/* Do not wrap text around chapter titles: */
+/* @import url("nowrap.css"); */
+
+@page {
+  margin: 2mm;
+}
+
+html body {
+  margin: 0;
+}
+
+h1 {
+  text-align: center;
+  font-weight: bold;
+  font-size: 150%;
+  margin: 1em 0;
+}
+h1.chapter {
+  display: none;
+}
+
+div.chapter-head {
+  width: 100%;
+  page-break-inside: avoid;
+}
+
+h1 + p, div.chapter-head + p {
+  text-indent: 0;
+}
+
+div.pagebreak {
+  page-break-before: always;
+  height: 0;
+  padding: 0;
+}
+
+p {
+  text-indent: 1em;
+  margin: 0;
+}
+p.noindent {
+  text-indent: 0;
+}
+
+em {
+  font-style: italic;
+}
+span.caps {
+  font-variant: small-caps;
+}
+
+blockquote {
+  margin: 1em 1.5em;
+}
+blockquote div.title {
+  text-align: center;
+  margin: 0.5em 0;
+}
+
+div.poetry {
+  margin: 1em 0 1em 2em;
+}
+div.poetry div.title {
+  text-align: center;
+  margin: 0.5em 0 0.5em -2em;
+  padding: 0;
+  text-indent: 0;
+}
+div.stanza {
+  margin: 0.5em 0;
+  padding: 0;
+  text-indent: 0;
+}
+div.poetry div {
+  margin: 0;
+  padding-left: 3em;
+  text-indent: -3em;
+  text-align: left;
+}
+div.poetry div.indent {
+  margin-left: 2em;
+}
+
+div.dedication {
+  text-align: center;
+  font-variant: small-caps;
+  margin: 3em 0 3em 0;
+}
+
+div.signature {
+  text-align: right;
+  font-variant: small-caps;
+  margin: 1em 1em 0 0;
+}
+
+div.illustration {
+  text-align: center;
+  margin: 1em 0;
+  clear: both;
+  page-break-inside: avoid;
+}
+div.front {
+  margin: 0;
+}
+div.illustration img {
+  max-height: 100%;
+  max-width: 100%;
+}
+div.illustration p {
+  text-indent: 0;
+  margin-top: 0.5em;
+  font-size: 80%;
+}
+div.illustration p.hide {
+  display: none;
+}
+
+div.end {
+  margin: 2em 0 0 0;
+  text-align: center;
+}
+
+a.call {
+  font-size: 60%;
+  font-style: normal;
+  text-decoration: none;
+  vertical-align: text-top;
+}
+span.mark {
+  font-weight: bold;
+  margin: 0 1em 0 -1em;
+}
+div.note {
+  margin: 1em 0 1em 0;
+  page-break-before: always;
+}
+div.backlink {
+  text-align: center;
+  margin: 2em 0 0 0;
+}
+
+div.toc {
+  font-size: 120%;
+  text-align: left;
+}
+div.toc a {
+}
+div.frontmatter {
+}
+div.chapter {
+  margin-top: 1em;
+}
+div.toc p {
+  margin: 0 0 0 2em;
+  text-indent: -2em;
+}
