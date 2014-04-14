@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package version="2.0" xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>The Adventures of Tom Sawyer</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Twain, Mark">Mark Twain</dc:creator>
+    <dc:creator opf:role="ill" opf:file-as="Williams, Truman W.">True Williams</dc:creator>
+    <dc:language>en</dc:language>
+    <dc:date opf:event="publication">1876</dc:date>
+    <dc:date opf:event="creation">2011-04-21</dc:date>
+    <dc:date opf:event="modification">2011-08-06</dc:date>
+    <dc:source>Project Gutenberg, EText-No. 74</dc:source>
+    <dc:identifier id="BookId">Jellby:20110421</dc:identifier>
+    <dc:contributor opf:role="bkp">Jellby</dc:contributor>
+    <dc:publisher>MobileRead</dc:publisher>
+    <dc:rights>Public Domain</dc:rights>
+    <dc:type>Text</dc:type>
+    <dc:type>Image</dc:type>
+    <dc:subject>Adventure stories</dc:subject>
+    <dc:subject>Sawyer, Tom (Fictitious character) – Fiction</dc:subject>
+    <dc:subject>Boys – Missouri – Fiction</dc:subject>
+    <dc:subject>Mississippi River – Fiction</dc:subject>
+    <dc:subject>Missouri – Fiction</dc:subject>
+    <dc:description>“The Adventures of Tom Sawyer” revolves around the youthful adventures of the novel’s schoolboy protagonist, Thomas Sawyer, whose reputation precedes him for causing mischief and strife. Tom lives with his Aunt Polly, half-brother Sid, and cousin Mary in the quaint town of St. Petersburg, just off the shore of the Mississippi River.</dc:description>
+    <meta name="cover" content="cover_pic" />
+    <meta name="prince-style" content="pdfoutput_css" />
+  </metadata>
+  <manifest>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml" />
+    <item id="Cover" href="Cover.xhtml" media-type="application/xhtml+xml" />
+    <item id="Title" href="Title.xhtml" media-type="application/xhtml+xml" />
+    <item id="Contents" href="Contents.xhtml" media-type="application/xhtml+xml" />
+    <item id="Illustrations" href="Illustrations.xhtml" media-type="application/xhtml+xml" />
+    <item id="Dedication" href="Dedication.xhtml" media-type="application/xhtml+xml" />
+    <item id="Preface" href="Preface.xhtml" media-type="application/xhtml+xml" />
+    <item id="Chapter-01" href="Chapter-01.xhtml" media-type="application/xhtml+xml" />
+    <item id="Chapter-02" href="Chapter-02.xhtml" media-type="application/xhtml+xml" />
+    <item id="Chapter-03" href="Chapter-03.xhtml" media-type="application/xhtml+xml" />
+    <item id="Chapter-04" href="Chapter-04.xhtml" media-type="application/xhtml+xml" />
+    <item id="Chapter-05" href="Chapter-05.xhtml" media-type="application/xhtml+xml" />
+    <item id="Chapter-06" href="Chapter-06.xhtml" media-type="application/xhtml+xml" />
+    <item id="Chapter-07" href="Chapter-07.xhtml" media-type="application/xhtml+xml" />
+    <item id="Chapter-08" href="Chapter-08.xhtml" media-type="application/xhtml+xml" />
+    <item id="Chapter-09" href="Chapter-09.xhtml" media-type="application/xhtml+xml" />
+    <item id="Chapter-10" href="Chapter-10.xhtml" media-type="application/xhtml+xml" />
+    <item id="Chapter-11" href="Chapter-11.xhtml" media-type="application/xhtml+xml" />
+    <item id="Chapter-12" href="Chapter-12.xhtml" media-type="application/xhtml+xml" />
+    <item id="Chapter-13" href="Chapter-13.xhtml" media-type="application/xhtml+xml" />
+    <item id="Chapter-14" href="Chapter-14.xhtml" media-type="application/xhtml+xml" />
+    <item id="Chapter-15" href="Chapter-15.xhtml" media-type="application/xhtml+xml" />
+    <item id="Chapter-16" href="Chapter-16.xhtml" media-type="application/xhtml+xml" />
+    <item id="Chapter-17" href="Chapter-17.xhtml" media-type="application/xhtml+xml" />
+    <item id="Chapter-18" href="Chapter-18.xhtml" media-type="application/xhtml+xml" />
+    <item id="Chapter-19" href="Chapter-19.xhtml" media-type="application/xhtml+xml" />
+    <item id="Chapter-20" href="Chapter-20.xhtml" media-type="application/xhtml+xml" />
+    <item id="Chapter-21" href="Chapter-21.xhtml" media-type="application/xhtml+xml" />
+    <item id="Chapter-22" href="Chapter-22.xhtml" media-type="application/xhtml+xml" />
+    <item id="Chapter-23" href="Chapter-23.xhtml" media-type="application/xhtml+xml" />
+    <item id="Chapter-24" href="Chapter-24.xhtml" media-type="application/xhtml+xml" />
+    <item id="Chapter-25" href="Chapter-25.xhtml" media-type="application/xhtml+xml" />
+    <item id="Chapter-26" href="Chapter-26.xhtml" media-type="application/xhtml+xml" />
+    <item id="Chapter-27" href="Chapter-27.xhtml" media-type="application/xhtml+xml" />
+    <item id="Chapter-28" href="Chapter-28.xhtml" media-type="application/xhtml+xml" />
+    <item id="Chapter-29" href="Chapter-29.xhtml" media-type="application/xhtml+xml" />
+    <item id="Chapter-30" href="Chapter-30.xhtml" media-type="application/xhtml+xml" />
+    <item id="Chapter-31" href="Chapter-31.xhtml" media-type="application/xhtml+xml" />
+    <item id="Chapter-32" href="Chapter-32.xhtml" media-type="application/xhtml+xml" />
+    <item id="Chapter-33" href="Chapter-33.xhtml" media-type="application/xhtml+xml" />
+    <item id="Chapter-34" href="Chapter-34.xhtml" media-type="application/xhtml+xml" />
+    <item id="Chapter-35" href="Chapter-35.xhtml" media-type="application/xhtml+xml" />
+    <item id="Conclusion" href="Conclusion.xhtml" media-type="application/xhtml+xml" />
+    <item id="Notes" href="Notes.xhtml" media-type="application/xhtml+xml" />
+    <item id="auximg-002a" href="images/auximg-002a.png" media-type="image/png" />
+    <item id="auximg-002b" href="images/auximg-002b.png" media-type="image/png" />
+    <item id="auximg-007a" href="images/auximg-007a.png" media-type="image/png" />
+    <item id="auximg-007b" href="images/auximg-007b.png" media-type="image/png" />
+    <item id="auximg-012a" href="images/auximg-012a.png" media-type="image/png" />
+    <item id="auximg-012b" href="images/auximg-012b.png" media-type="image/png" />
+    <item id="auximg-021a" href="images/auximg-021a.png" media-type="image/png" />
+    <item id="auximg-021b" href="images/auximg-021b.png" media-type="image/png" />
+    <item id="auximg-027a" href="images/auximg-027a.png" media-type="image/png" />
+    <item id="auximg-027b" href="images/auximg-027b.png" media-type="image/png" />
+    <item id="auximg-033a" href="images/auximg-033a.png" media-type="image/png" />
+    <item id="auximg-033b" href="images/auximg-033b.png" media-type="image/png" />
+    <item id="auximg-040a" href="images/auximg-040a.png" media-type="image/png" />
+    <item id="auximg-040b" href="images/auximg-040b.png" media-type="image/png" />
+    <item id="auximg-043a" href="images/auximg-043a.png" media-type="image/png" />
+    <item id="auximg-043b" href="images/auximg-043b.png" media-type="image/png" />
+    <item id="auximg-047a" href="images/auximg-047a.png" media-type="image/png" />
+    <item id="auximg-047b" href="images/auximg-047b.png" media-type="image/png" />
+    <item id="auximg-052a" href="images/auximg-052a.png" media-type="image/png" />
+    <item id="auximg-052b" href="images/auximg-052b.png" media-type="image/png" />
+    <item id="auximg-056a" href="images/auximg-056a.png" media-type="image/png" />
+    <item id="auximg-056b" href="images/auximg-056b.png" media-type="image/png" />
+    <item id="auximg-060a" href="images/auximg-060a.png" media-type="image/png" />
+    <item id="auximg-060b" href="images/auximg-060b.png" media-type="image/png" />
+    <item id="auximg-064a" href="images/auximg-064a.png" media-type="image/png" />
+    <item id="auximg-064b" href="images/auximg-064b.png" media-type="image/png" />
+    <item id="auximg-067a" href="images/auximg-067a.png" media-type="image/png" />
+    <item id="auximg-067b" href="images/auximg-067b.png" media-type="image/png" />
+    <item id="auximg-072a" href="images/auximg-072a.png" media-type="image/png" />
+    <item id="auximg-072b" href="images/auximg-072b.png" media-type="image/png" />
+    <item id="auximg-075a" href="images/auximg-075a.png" media-type="image/png" />
+    <item id="auximg-075b" href="images/auximg-075b.png" media-type="image/png" />
+    <item id="auximg-080a" href="images/auximg-080a.png" media-type="image/png" />
+    <item id="auximg-080b" href="images/auximg-080b.png" media-type="image/png" />
+    <item id="auximg-082a" href="images/auximg-082a.png" media-type="image/png" />
+    <item id="auximg-082b" href="images/auximg-082b.png" media-type="image/png" />
+    <item id="auximg-089a" href="images/auximg-089a.png" media-type="image/png" />
+    <item id="auximg-089b" href="images/auximg-089b.png" media-type="image/png" />
+    <item id="auximg-091a" href="images/auximg-091a.png" media-type="image/png" />
+    <item id="auximg-091b" href="images/auximg-091b.png" media-type="image/png" />
+    <item id="auximg-095a" href="images/auximg-095a.png" media-type="image/png" />
+    <item id="auximg-095b" href="images/auximg-095b.png" media-type="image/png" />
+    <item id="auximg-101a" href="images/auximg-101a.png" media-type="image/png" />
+    <item id="auximg-101b" href="images/auximg-101b.png" media-type="image/png" />
+    <item id="auximg-105a" href="images/auximg-105a.png" media-type="image/png" />
+    <item id="auximg-105b" href="images/auximg-105b.png" media-type="image/png" />
+    <item id="auximg-109a" href="images/auximg-109a.png" media-type="image/png" />
+    <item id="auximg-109b" href="images/auximg-109b.png" media-type="image/png" />
+    <item id="auximg-111a" href="images/auximg-111a.png" media-type="image/png" />
+    <item id="auximg-111b" href="images/auximg-111b.png" media-type="image/png" />
+    <item id="auximg-116a" href="images/auximg-116a.png" media-type="image/png" />
+    <item id="auximg-116b" href="images/auximg-116b.png" media-type="image/png" />
+    <item id="auximg-120a" href="images/auximg-120a.png" media-type="image/png" />
+    <item id="auximg-120b" href="images/auximg-120b.png" media-type="image/png" />
+    <item id="auximg-123a" href="images/auximg-123a.png" media-type="image/png" />
+    <item id="auximg-123b" href="images/auximg-123b.png" media-type="image/png" />
+    <item id="auximg-127a" href="images/auximg-127a.png" media-type="image/png" />
+    <item id="auximg-127b" href="images/auximg-127b.png" media-type="image/png" />
+    <item id="auximg-132a" href="images/auximg-132a.png" media-type="image/png" />
+    <item id="auximg-132b" href="images/auximg-132b.png" media-type="image/png" />
+    <item id="auximg-139a" href="images/auximg-139a.png" media-type="image/png" />
+    <item id="auximg-139b" href="images/auximg-139b.png" media-type="image/png" />
+    <item id="auximg-145a" href="images/auximg-145a.png" media-type="image/png" />
+    <item id="auximg-145b" href="images/auximg-145b.png" media-type="image/png" />
+    <item id="auximg-149a" href="images/auximg-149a.png" media-type="image/png" />
+    <item id="auximg-149b" href="images/auximg-149b.png" media-type="image/png" />
+    <item id="auximg-156a" href="images/auximg-156a.png" media-type="image/png" />
+    <item id="auximg-156b" href="images/auximg-156b.png" media-type="image/png" />
+    <item id="auximg-159a" href="images/auximg-159a.png" media-type="image/png" />
+    <item id="auximg-159b" href="images/auximg-159b.png" media-type="image/png" />
+    <item id="Illustration-001" href="images/Illustration-001.jpg" media-type="image/jpeg" />
+    <item id="Illustration-002" href="images/Illustration-002.jpg" media-type="image/jpeg" />
+    <item id="Illustration-003" href="images/Illustration-003.jpg" media-type="image/jpeg" />
+    <item id="Illustration-004" href="images/Illustration-004.jpg" media-type="image/jpeg" />
+    <item id="Illustration-005" href="images/Illustration-005.jpg" media-type="image/jpeg" />
+    <item id="Illustration-006" href="images/Illustration-006.jpg" media-type="image/jpeg" />
+    <item id="Illustration-007" href="images/Illustration-007.jpg" media-type="image/jpeg" />
+    <item id="Illustration-008" href="images/Illustration-008.jpg" media-type="image/jpeg" />
+    <item id="Illustration-009" href="images/Illustration-009.jpg" media-type="image/jpeg" />
+    <item id="Illustration-010" href="images/Illustration-010.jpg" media-type="image/jpeg" />
+    <item id="Illustration-011" href="images/Illustration-011.jpg" media-type="image/jpeg" />
+    <item id="Illustration-012" href="images/Illustration-012.jpg" media-type="image/jpeg" />
+    <item id="Illustration-013" href="images/Illustration-013.jpg" media-type="image/jpeg" />
+    <item id="Illustration-014" href="images/Illustration-014.jpg" media-type="image/jpeg" />
+    <item id="Illustration-015" href="images/Illustration-015.jpg" media-type="image/jpeg" />
+    <item id="Illustration-016" href="images/Illustration-016.jpg" media-type="image/jpeg" />
+    <item id="Illustration-017" href="images/Illustration-017.jpg" media-type="image/jpeg" />
+    <item id="Illustration-018" href="images/Illustration-018.jpg" media-type="image/jpeg" />
+    <item id="Illustration-019" href="images/Illustration-019.jpg" media-type="image/jpeg" />
+    <item id="Illustration-020" href="images/Illustration-020.jpg" media-type="image/jpeg" />
+    <item id="Illustration-021" href="images/Illustration-021.jpg" media-type="image/jpeg" />
+    <item id="Illustration-022" href="images/Illustration-022.jpg" media-type="image/jpeg" />
+    <item id="Illustration-023" href="images/Illustration-023.jpg" media-type="image/jpeg" />
+    <item id="Illustration-024" href="images/Illustration-024.jpg" media-type="image/jpeg" />
+    <item id="Illustration-025" href="images/Illustration-025.jpg" media-type="image/jpeg" />
+    <item id="Illustration-026" href="images/Illustration-026.jpg" media-type="image/jpeg" />
+    <item id="Illustration-027" href="images/Illustration-027.jpg" media-type="image/jpeg" />
+    <item id="Illustration-028" href="images/Illustration-028.jpg" media-type="image/jpeg" />
+    <item id="Illustration-029" href="images/Illustration-029.jpg" media-type="image/jpeg" />
+    <item id="Illustration-030" href="images/Illustration-030.jpg" media-type="image/jpeg" />
+    <item id="Illustration-031" href="images/Illustration-031.jpg" media-type="image/jpeg" />
+    <item id="Illustration-032" href="images/Illustration-032.jpg" media-type="image/jpeg" />
+    <item id="Illustration-033" href="images/Illustration-033.jpg" media-type="image/jpeg" />
+    <item id="Illustration-034" href="images/Illustration-034.jpg" media-type="image/jpeg" />
+    <item id="Illustration-035" href="images/Illustration-035.jpg" media-type="image/jpeg" />
+    <item id="Illustration-036" href="images/Illustration-036.jpg" media-type="image/jpeg" />
+    <item id="Illustration-037" href="images/Illustration-037.jpg" media-type="image/jpeg" />
+    <item id="Illustration-038" href="images/Illustration-038.jpg" media-type="image/jpeg" />
+    <item id="Illustration-039" href="images/Illustration-039.jpg" media-type="image/jpeg" />
+    <item id="Illustration-040" href="images/Illustration-040.jpg" media-type="image/jpeg" />
+    <item id="Illustration-041" href="images/Illustration-041.jpg" media-type="image/jpeg" />
+    <item id="Illustration-042" href="images/Illustration-042.jpg" media-type="image/jpeg" />
+    <item id="Illustration-043" href="images/Illustration-043.jpg" media-type="image/jpeg" />
+    <item id="Illustration-044" href="images/Illustration-044.jpg" media-type="image/jpeg" />
+    <item id="Illustration-045" href="images/Illustration-045.jpg" media-type="image/jpeg" />
+    <item id="Illustration-046" href="images/Illustration-046.jpg" media-type="image/jpeg" />
+    <item id="Illustration-047" href="images/Illustration-047.jpg" media-type="image/jpeg" />
+    <item id="Illustration-048" href="images/Illustration-048.jpg" media-type="image/jpeg" />
+    <item id="Illustration-049" href="images/Illustration-049.jpg" media-type="image/jpeg" />
+    <item id="Illustration-050" href="images/Illustration-050.jpg" media-type="image/jpeg" />
+    <item id="Illustration-051" href="images/Illustration-051.jpg" media-type="image/jpeg" />
+    <item id="Illustration-052" href="images/Illustration-052.jpg" media-type="image/jpeg" />
+    <item id="Illustration-053" href="images/Illustration-053.jpg" media-type="image/jpeg" />
+    <item id="Illustration-054" href="images/Illustration-054.jpg" media-type="image/jpeg" />
+    <item id="Illustration-055" href="images/Illustration-055.jpg" media-type="image/jpeg" />
+    <item id="Illustration-056" href="images/Illustration-056.jpg" media-type="image/jpeg" />
+    <item id="Illustration-057" href="images/Illustration-057.jpg" media-type="image/jpeg" />
+    <item id="Illustration-058" href="images/Illustration-058.jpg" media-type="image/jpeg" />
+    <item id="Illustration-059" href="images/Illustration-059.jpg" media-type="image/jpeg" />
+    <item id="Illustration-060" href="images/Illustration-060.jpg" media-type="image/jpeg" />
+    <item id="Illustration-061" href="images/Illustration-061.jpg" media-type="image/jpeg" />
+    <item id="Illustration-062" href="images/Illustration-062.jpg" media-type="image/jpeg" />
+    <item id="Illustration-063" href="images/Illustration-063.jpg" media-type="image/jpeg" />
+    <item id="Illustration-064" href="images/Illustration-064.jpg" media-type="image/jpeg" />
+    <item id="Illustration-065" href="images/Illustration-065.jpg" media-type="image/jpeg" />
+    <item id="Illustration-066" href="images/Illustration-066.jpg" media-type="image/jpeg" />
+    <item id="Illustration-067" href="images/Illustration-067.jpg" media-type="image/jpeg" />
+    <item id="Illustration-068" href="images/Illustration-068.jpg" media-type="image/jpeg" />
+    <item id="Illustration-069" href="images/Illustration-069.jpg" media-type="image/jpeg" />
+    <item id="Illustration-070" href="images/Illustration-070.jpg" media-type="image/jpeg" />
+    <item id="Illustration-071" href="images/Illustration-071.jpg" media-type="image/jpeg" />
+    <item id="Illustration-072" href="images/Illustration-072.jpg" media-type="image/jpeg" />
+    <item id="Illustration-073" href="images/Illustration-073.jpg" media-type="image/jpeg" />
+    <item id="Illustration-074" href="images/Illustration-074.jpg" media-type="image/jpeg" />
+    <item id="Illustration-075" href="images/Illustration-075.jpg" media-type="image/jpeg" />
+    <item id="Illustration-076" href="images/Illustration-076.jpg" media-type="image/jpeg" />
+    <item id="Illustration-077" href="images/Illustration-077.jpg" media-type="image/jpeg" />
+    <item id="Illustration-078" href="images/Illustration-078.jpg" media-type="image/jpeg" />
+    <item id="Illustration-079" href="images/Illustration-079.jpg" media-type="image/jpeg" />
+    <item id="Illustration-080" href="images/Illustration-080.jpg" media-type="image/jpeg" />
+    <item id="Illustration-081" href="images/Illustration-081.jpg" media-type="image/jpeg" />
+    <item id="Illustration-082" href="images/Illustration-082.jpg" media-type="image/jpeg" />
+    <item id="Illustration-083" href="images/Illustration-083.jpg" media-type="image/jpeg" />
+    <item id="Illustration-084" href="images/Illustration-084.jpg" media-type="image/jpeg" />
+    <item id="Illustration-085" href="images/Illustration-085.jpg" media-type="image/jpeg" />
+    <item id="Illustration-086" href="images/Illustration-086.jpg" media-type="image/jpeg" />
+    <item id="Illustration-087" href="images/Illustration-087.jpg" media-type="image/jpeg" />
+    <item id="Illustration-088" href="images/Illustration-088.jpg" media-type="image/jpeg" />
+    <item id="Illustration-089" href="images/Illustration-089.jpg" media-type="image/jpeg" />
+    <item id="Illustration-090" href="images/Illustration-090.jpg" media-type="image/jpeg" />
+    <item id="Illustration-091" href="images/Illustration-091.jpg" media-type="image/jpeg" />
+    <item id="Illustration-092" href="images/Illustration-092.jpg" media-type="image/jpeg" />
+    <item id="Illustration-093" href="images/Illustration-093.jpg" media-type="image/jpeg" />
+    <item id="Illustration-094" href="images/Illustration-094.jpg" media-type="image/jpeg" />
+    <item id="Illustration-095" href="images/Illustration-095.jpg" media-type="image/jpeg" />
+    <item id="Illustration-096" href="images/Illustration-096.jpg" media-type="image/jpeg" />
+    <item id="Illustration-097" href="images/Illustration-097.jpg" media-type="image/jpeg" />
+    <item id="Illustration-098" href="images/Illustration-098.jpg" media-type="image/jpeg" />
+    <item id="Illustration-099" href="images/Illustration-099.jpg" media-type="image/jpeg" />
+    <item id="Illustration-100" href="images/Illustration-100.jpg" media-type="image/jpeg" />
+    <item id="Illustration-101" href="images/Illustration-101.jpg" media-type="image/jpeg" />
+    <item id="Illustration-102" href="images/Illustration-102.jpg" media-type="image/jpeg" />
+    <item id="Illustration-103" href="images/Illustration-103.jpg" media-type="image/jpeg" />
+    <item id="Illustration-104" href="images/Illustration-104.jpg" media-type="image/jpeg" />
+    <item id="Illustration-105" href="images/Illustration-105.jpg" media-type="image/jpeg" />
+    <item id="Illustration-106" href="images/Illustration-106.jpg" media-type="image/jpeg" />
+    <item id="Illustration-107" href="images/Illustration-107.jpg" media-type="image/jpeg" />
+    <item id="Illustration-108" href="images/Illustration-108.jpg" media-type="image/jpeg" />
+    <item id="Illustration-109" href="images/Illustration-109.jpg" media-type="image/jpeg" />
+    <item id="Illustration-110" href="images/Illustration-110.jpg" media-type="image/jpeg" />
+    <item id="Illustration-111" href="images/Illustration-111.jpg" media-type="image/jpeg" />
+    <item id="Illustration-112" href="images/Illustration-112.jpg" media-type="image/jpeg" />
+    <item id="Illustration-113" href="images/Illustration-113.jpg" media-type="image/jpeg" />
+    <item id="Illustration-114" href="images/Illustration-114.jpg" media-type="image/jpeg" />
+    <item id="Illustration-115" href="images/Illustration-115.jpg" media-type="image/jpeg" />
+    <item id="Illustration-116" href="images/Illustration-116.jpg" media-type="image/jpeg" />
+    <item id="Illustration-117" href="images/Illustration-117.jpg" media-type="image/jpeg" />
+    <item id="Illustration-118" href="images/Illustration-118.jpg" media-type="image/jpeg" />
+    <item id="Illustration-119" href="images/Illustration-119.jpg" media-type="image/jpeg" />
+    <item id="Illustration-120" href="images/Illustration-120.jpg" media-type="image/jpeg" />
+    <item id="Illustration-121" href="images/Illustration-121.jpg" media-type="image/jpeg" />
+    <item id="Illustration-122" href="images/Illustration-122.jpg" media-type="image/jpeg" />
+    <item id="Illustration-123" href="images/Illustration-123.jpg" media-type="image/jpeg" />
+    <item id="Illustration-124" href="images/Illustration-124.jpg" media-type="image/jpeg" />
+    <item id="Illustration-125" href="images/Illustration-125.jpg" media-type="image/jpeg" />
+    <item id="Illustration-126" href="images/Illustration-126.jpg" media-type="image/jpeg" />
+    <item id="Illustration-127" href="images/Illustration-127.jpg" media-type="image/jpeg" />
+    <item id="Illustration-128" href="images/Illustration-128.jpg" media-type="image/jpeg" />
+    <item id="Illustration-129" href="images/Illustration-129.jpg" media-type="image/jpeg" />
+    <item id="Illustration-130" href="images/Illustration-130.jpg" media-type="image/jpeg" />
+    <item id="Illustration-131" href="images/Illustration-131.jpg" media-type="image/jpeg" />
+    <item id="Illustration-132" href="images/Illustration-132.jpg" media-type="image/jpeg" />
+    <item id="Illustration-133" href="images/Illustration-133.jpg" media-type="image/jpeg" />
+    <item id="Illustration-134" href="images/Illustration-134.jpg" media-type="image/jpeg" />
+    <item id="Illustration-135" href="images/Illustration-135.jpg" media-type="image/jpeg" />
+    <item id="Illustration-136" href="images/Illustration-136.jpg" media-type="image/jpeg" />
+    <item id="Illustration-137" href="images/Illustration-137.jpg" media-type="image/jpeg" />
+    <item id="Illustration-138" href="images/Illustration-138.jpg" media-type="image/jpeg" />
+    <item id="Illustration-139" href="images/Illustration-139.jpg" media-type="image/jpeg" />
+    <item id="Illustration-140" href="images/Illustration-140.jpg" media-type="image/jpeg" />
+    <item id="Illustration-141" href="images/Illustration-141.jpg" media-type="image/jpeg" />
+    <item id="Illustration-142" href="images/Illustration-142.jpg" media-type="image/jpeg" />
+    <item id="Illustration-143" href="images/Illustration-143.jpg" media-type="image/jpeg" />
+    <item id="Illustration-144" href="images/Illustration-144.jpg" media-type="image/jpeg" />
+    <item id="Illustration-145" href="images/Illustration-145.jpg" media-type="image/jpeg" />
+    <item id="Illustration-146" href="images/Illustration-146.jpg" media-type="image/jpeg" />
+    <item id="Illustration-147" href="images/Illustration-147.jpg" media-type="image/jpeg" />
+    <item id="Illustration-148" href="images/Illustration-148.jpg" media-type="image/jpeg" />
+    <item id="Illustration-149" href="images/Illustration-149.jpg" media-type="image/jpeg" />
+    <item id="Illustration-150" href="images/Illustration-150.jpg" media-type="image/jpeg" />
+    <item id="Illustration-151" href="images/Illustration-151.jpg" media-type="image/jpeg" />
+    <item id="Illustration-152" href="images/Illustration-152.jpg" media-type="image/jpeg" />
+    <item id="Illustration-153" href="images/Illustration-153.jpg" media-type="image/jpeg" />
+    <item id="Illustration-154" href="images/Illustration-154.jpg" media-type="image/jpeg" />
+    <item id="Illustration-155" href="images/Illustration-155.jpg" media-type="image/jpeg" />
+    <item id="Illustration-156" href="images/Illustration-156.jpg" media-type="image/jpeg" />
+    <item id="Illustration-157" href="images/Illustration-157.jpg" media-type="image/jpeg" />
+    <item id="Illustration-158" href="images/Illustration-158.jpg" media-type="image/jpeg" />
+    <item id="Illustration-159" href="images/Illustration-159.jpg" media-type="image/jpeg" />
+    <item id="Illustration-160" href="images/Illustration-160.jpg" media-type="image/jpeg" />
+    <item id="Illustration-161" href="images/Illustration-161.jpg" media-type="image/jpeg" />
+    <item id="Illustration-162" href="images/Illustration-162.jpg" media-type="image/jpeg" />
+    <item id="title_css" href="css/title.css" media-type="text/css" />
+    <item id="style_css" href="css/style.css" media-type="text/css" />
+    <item id="wrap_css" href="css/wrap.css" media-type="text/css" />
+    <item id="nowrap_css" href="css/nowrap.css" media-type="text/css" />
+    <item id="epub_pic" href="images/epub.png" media-type="image/png" />
+    <item id="cover_pic" href="images/Cover.jpg" media-type="image/jpeg" />
+    <item id="photo_pic" href="images/Twain.jpg" media-type="image/jpeg" />
+    <item id="pdfoutput_css" href="css/pdf_output.css" media-type="text/css" />
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="Cover" />
+    <itemref idref="Title" />
+    <itemref idref="Contents" linear="no" />
+    <itemref idref="Illustrations" linear="no" />
+    <itemref idref="Dedication" />
+    <itemref idref="Preface" />
+    <itemref idref="Chapter-01" />
+    <itemref idref="Chapter-02" />
+    <itemref idref="Chapter-03" />
+    <itemref idref="Chapter-04" />
+    <itemref idref="Chapter-05" />
+    <itemref idref="Chapter-06" />
+    <itemref idref="Chapter-07" />
+    <itemref idref="Chapter-08" />
+    <itemref idref="Chapter-09" />
+    <itemref idref="Chapter-10" />
+    <itemref idref="Chapter-11" />
+    <itemref idref="Chapter-12" />
+    <itemref idref="Chapter-13" />
+    <itemref idref="Chapter-14" />
+    <itemref idref="Chapter-15" />
+    <itemref idref="Chapter-16" />
+    <itemref idref="Chapter-17" />
+    <itemref idref="Chapter-18" />
+    <itemref idref="Chapter-19" />
+    <itemref idref="Chapter-20" />
+    <itemref idref="Chapter-21" />
+    <itemref idref="Chapter-22" />
+    <itemref idref="Chapter-23" />
+    <itemref idref="Chapter-24" />
+    <itemref idref="Chapter-25" />
+    <itemref idref="Chapter-26" />
+    <itemref idref="Chapter-27" />
+    <itemref idref="Chapter-28" />
+    <itemref idref="Chapter-29" />
+    <itemref idref="Chapter-30" />
+    <itemref idref="Chapter-31" />
+    <itemref idref="Chapter-32" />
+    <itemref idref="Chapter-33" />
+    <itemref idref="Chapter-34" />
+    <itemref idref="Chapter-35" />
+    <itemref idref="Conclusion" />
+    <itemref idref="Notes" linear="no" />
+  </spine>
+  <guide>
+    <reference type="cover" href="Cover.xhtml"></reference>
+    <reference type="title-page" href="Title.xhtml"></reference>
+    <reference type="toc" title="Contents" href="Contents.xhtml"></reference>
+    <reference type="loi" title="Illustrations" href="Illustrations.xhtml"></reference>
+    <reference type="preface" title="Preface" href="Preface.xhtml"></reference>
+    <reference type="text" href="Chapter-01.xhtml"></reference>
+  </guide>
+</package>

@@ -1,0 +1,118 @@
+/* CSS stylesheet for PDF generation with Prince (http://www.princexml.com/) */
+
+/* specific code for the cover image */
+@page cover {
+  size: 600px 800px !important; /* hard-coded cover image size */
+  margin: 0 -100px !important;  /* make virtual page width 800px */
+}
+
+@page title {
+  margin: 1mm;
+  @top-left {
+    border-width: 0;
+    margin: 0;
+    content: normal;
+  }
+  @top-center {
+    border-width: 0;
+    margin: 0;
+    content: normal;
+  }
+  @top-right {
+    border-width: 0;
+    margin: 0;
+    content: normal;
+  }
+  @bottom-left {
+    border-width: 0;
+    margin: 0;
+    content: normal;
+  }
+  @bottom-center {
+    border-width: 0;
+    margin: 0;
+    content: normal;
+  }
+  @bottom-right {
+    border-width: 0;
+    margin: 0;
+    content: normal;
+  }
+}
+
+body {
+  string-set: booktitle "Tom Sawyer";
+  prince-text-replace: " – " "—"
+                       "\A– " "—"
+                       " –\A" "—";     /*replace em-dashes*/
+}
+
+body.cover {
+  page: cover;
+}
+
+div.title, div.edition {
+  page: title;
+  hyphens: none;
+}
+div.edition {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+}
+
+div.toc a {
+  text-decoration: none;
+  string-set: chapterpage target-counter(attr(href), page);
+}
+div.toc br::before {
+  content: leader('. ') string(chapterpage);
+}
+div.summary {
+  page-break-before: avoid;
+}
+
+h1 {
+  string-set: chaptertitle content();
+  prince-bookmark-level: 1;
+}
+
+div.poetry p {
+  padding-left: 50% !important;
+  text-indent: -50% !important;
+}
+
+div.signature, p.source {
+  page-break-before: avoid;
+}
+
+div.illustration {
+  float: prince-top-if-necessary;
+}
+div.nofloat {
+  float: none;
+}
+
+h1.chapter {
+  display: block !important;
+  margin: 0 !important;
+  position: relative;
+  z-index: -1;
+  visibility: hidden;
+  opacity: 0;
+  padding: 0;
+  height: 0;
+  line-height: 0;
+}
+div.chapter-head div.top {
+  margin-bottom: -1.1em !important;
+}
+div.chapter-head div.middle {
+  height: 1.1em !important;
+}
+
+/* bug in prince? */
+div.chapter-head div {
+  border: 0.0001px solid white;
+}
+

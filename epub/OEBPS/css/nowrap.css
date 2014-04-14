@@ -1,0 +1,13 @@
+div.chapter-head {
+  margin: 0 0 0.5em 0;
+  page-break-after: always;
+}
+div.chapter-head img {
+  width: 100%;
+}
+div.chapter-head div.top,
+div.chapter-head div.middle,
+div.chapter-head div.bottom {
+  display: none;
+}
+
