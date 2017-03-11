@@ -1,14 +1,8 @@
 _repo: The-Adventures-of-Tom-Sawyer_74
-_version: 0.1.0
+_version: 0.2.0
 covers:
 - cover_type: archival
-  image_path: 74/74-h/images/cover.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
-- cover_type: archival
-  image_path: 74/74-h/images/bookcover.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+  image_path: 74-h/images/backcover.jpg
 creator:
   author:
     agent_name: Twain, Mark
@@ -24,6 +18,8 @@ description: "The Adventures of Tom Sawyer by Mark Twain is an 1876 novel about 
   \ young boy growing up along the Mississippi River. It is set in the fictional town\
   \ of St. Petersburg, inspired by Hannibal, Missouri, where Twain lived.\n From Wikipedia\
   \ (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74#The-Adventures-of-Tom-Sawyer
 gutenberg_bookshelf: Banned Books from Anne Haight's list
 gutenberg_issued: '2004-07-01'
 gutenberg_type: Text
